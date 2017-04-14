@@ -1,0 +1,5 @@
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\WSTest\Demo\bin\Debug\Demo.exe.config
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\WSTest\Demo\bin\Debug\Demo.exe
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\WSTest\Demo\bin\Debug\Demo.pdb
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\WSTest\Demo\obj\Debug\Demo.exe
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\WSTest\Demo\obj\Debug\Demo.pdb

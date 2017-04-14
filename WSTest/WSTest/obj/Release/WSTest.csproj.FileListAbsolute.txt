@@ -1,0 +1,65 @@
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\ApplicationInsights.config
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\csc.exe
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\vbc.exe
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\WSTest.dll.config
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\WSTest.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\WSTest.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.Web.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.Web.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\obj\Release\WSTest.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\WSTest\WSTest\obj\Release\WSTest.pdb
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\ApplicationInsights.config
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\csc.exe
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\vbc.exe
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\WSTest.dll.config
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\WSTest.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\WSTest.pdb
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.Web.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.Web.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\obj\Release\WSTest.csprojResolveAssemblyReference.cache
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\obj\Release\WSTest.dll
+C:\Users\程文锋\Desktop\pie\WSTest\WSTest\obj\Release\WSTest.pdb

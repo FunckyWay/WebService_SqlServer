@@ -1,0 +1,79 @@
+﻿
+<DataSet xmlns="http://tempuri.org/">
+  <xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="NewDataSet">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0"/>
+                <xs:element name="Month" type="xs:string" minOccurs="0"/>
+                <xs:element name="TotalCar" type="xs:double" minOccurs="0"/>
+                <xs:element name="TotalCar_Target" type="xs:double" minOccurs="0"/>
+                <xs:element name="Service" type="xs:double" minOccurs="0"/>
+                <xs:element name="Service_Target" type="xs:double" minOccurs="0"/>
+                <xs:element name="Part" type="xs:double" minOccurs="0"/>
+                <xs:element name="Part_Target" type="xs:double" minOccurs="0"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <NewDataSet xmlns="">
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <Id>1</Id>
+        <Month>6月</Month>
+        <TotalCar>20000</TotalCar>
+        <TotalCar_Target>30000</TotalCar_Target>
+        <Service>12000</Service>
+        <Service_Target>15000</Service_Target>
+        <Part>8000</Part>
+        <Part_Target>9000</Part_Target>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <Id>2</Id>
+        <Month>7月</Month>
+        <TotalCar>18000</TotalCar>
+        <TotalCar_Target>25000</TotalCar_Target>
+        <Service>10000</Service>
+        <Service_Target>14000</Service_Target>
+        <Part>9000</Part>
+        <Part_Target>13000</Part_Target>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <Id>3</Id>
+        <Month>8月</Month>
+        <TotalCar>20000</TotalCar>
+        <TotalCar_Target>24000</TotalCar_Target>
+        <Service>15000</Service>
+        <Service_Target>16000</Service_Target>
+        <Part>8500</Part>
+        <Part_Target>1200</Part_Target>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <Id>4</Id>
+        <Month>9月</Month>
+        <TotalCar>25000</TotalCar>
+        <TotalCar_Target>28123</TotalCar_Target>
+        <Service>17000</Service>
+        <Service_Target>22000</Service_Target>
+        <Part>9000</Part>
+        <Part_Target>12000</Part_Target>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <Id>5</Id>
+        <Month>10月</Month>
+        <TotalCar>28000</TotalCar>
+        <TotalCar_Target>40000</TotalCar_Target>
+        <Service>18000</Service>
+        <Service_Target>22345</Service_Target>
+        <Part>12000</Part>
+        <Part_Target>18000</Part_Target>
+      </Table>
+    </NewDataSet>
+  </diffgr:diffgram>
+</DataSet>
